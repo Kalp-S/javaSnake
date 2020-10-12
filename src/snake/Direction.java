@@ -1,7 +1,3 @@
-/*Direction.java
- * Kalp Shah & Shichen Chang
- * January 15, 2014
- */
 package snake;
 /**
  * Sets direction to numerical value

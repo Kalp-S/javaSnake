@@ -1,7 +1,3 @@
-/*HardAction.java
- * Kalp Shah & Shichen Chang
- * January 15, 2014
- */
 package snake;
 
 import java.awt.event.ActionEvent;
