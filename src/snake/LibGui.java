@@ -1,4 +1,5 @@
-Code :
+package snake;
+
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
@@ -36,9 +37,7 @@ btnAddNew,btnSearch,btnDelete,btnDisplay,btnModify,btnExit;
    //text area initialization
           tac = new JTextArea(2,3);
 
-   tac.setText("For: Birgang Institute of
-Technology"+"
-"+"Birganj,Parsa");
+   tac.setText("For: Birgang Institute of Technology"+" "+"Birganj,Parsa");
 
    tac.setForeground(Color.red);
    tac.setEditable(false);
